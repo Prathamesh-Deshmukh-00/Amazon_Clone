@@ -33,7 +33,7 @@ a {
   width:  100px;
 }
 .logo {
-  background-image: url('Amazon_new_logo.png');
+  background-image: url('imeges/Amazon_new_logo.png');
   background-size: cover;
   height: 50px;
   width:100%;
@@ -370,7 +370,7 @@ background-color: #e78a10;
 
    /* Third Part  */
 .hero-section{
-  background-image: url("hero_image.jpg");
+  background-image: url("imeges/hero_image.jpg");
   height :350px;
   background-size: cover;
   display: flex;
@@ -540,7 +540,7 @@ font-weight: 700;
 
 }
 .footer-logo{
-  background-image : url('Amazon_new_logo.png');
+  background-image : url('imeges/Amazon_new_logo.png');
   background-size: cover;
   width:70px;
   height: 35px;
